@@ -1,5 +1,6 @@
-#Game: FakeContra
-## Ỹ tưởng game: Lấy ý tưởng từ tựa game vừa đi vừa bắn Contra
+# Game: FakeContra
+## Ý tưởng game: 
+Lấy ý tưởng từ tựa game vừa đi vừa bắn Contra
 ## Cách chơi:
 A, D để di chuyển trái, phải
 Z để bắn
