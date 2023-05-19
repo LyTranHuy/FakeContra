@@ -2,9 +2,9 @@
 ## Ý tưởng game: 
 Lấy ý tưởng từ tựa game vừa đi vừa bắn Contra
 ## Cách chơi:
-A, D để di chuyển trái, phải
+Mũi tên trái, mũi tên phải để di chuyển trái, phải
 Z để bắn
-W để nhảy
+Mũi tên lên để nhảy
 ## Cơ chế game:
 - Tiêu diệt chướng ngại vật trẻn đường đi để đến đích
 - Ăn 10 tiền vàng xuất hiện trên đường để nhận lại một mạng
